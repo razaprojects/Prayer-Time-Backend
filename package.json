@@ -1,0 +1,24 @@
+{
+  "name": "Prayer-Time-Backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razaprojects/Prayer-Time-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/razaprojects/Prayer-Time-Backend/issues"
+  },
+  "homepage": "https://github.com/razaprojects/Prayer-Time-Backend#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "knex": "^0.20.13"
+  }
+}
