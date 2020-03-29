@@ -1,0 +1,9 @@
+#database
+*.db3
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+#environment
+.env
